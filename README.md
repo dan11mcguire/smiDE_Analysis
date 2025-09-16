@@ -4,11 +4,14 @@ This repository contains code used for the analysis and figure generation for ou
 
 The smiDE R package used for analysis throughout the manuscript is hosted [here](https://github.com/Nanostring-Biostats/CosMx-Analysis-Scratch-Space/tree/Main/_code/smiDE).
 
+
+
 ### Analyses Descriptions
 
 * MERFISH
 
 * Simulation
 
-* colon_de : Code used for analysis generating Figures 2,3 and Supplementary Figures 4,5 
+* nsclc_de : Code used for analysis generating Figures 2,3 and Supplementary Figures 1,2,3,4,5 
+* colon_de : Code used for analysis generating Figure 7 
 
