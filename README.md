@@ -8,10 +8,12 @@ The smiDE R package used for analysis throughout the manuscript is hosted [here]
 
 ### Analyses Descriptions
 
-* MERFISH
 
-* Simulation
+* nsclc_de : Code used for analysis generating Figures 2,3 and Supplementary Figures 1-5
 
-* nsclc_de : Code used for analysis generating Figures 2,3 and Supplementary Figures 1,2,3,4,5 
+* sim_de : Code used for analysis generating Figure 4 and Supplementary Figure 7 and Supplementary Table 1
+
+* merfish_de : Code used for analysis generating Figure 6 and Supplementary Figures 9-21 and Supplementary Tables 2,3
+
 * colon_de : Code used for analysis generating Figure 7 
 
