@@ -100,7 +100,7 @@ de_v3 <-
 #  facet_wrap(~target)
 
 
-saveRDS(de_v3, file=paste0("colon_data/de_results/de"
+saveRDS(de_v3, file=paste0("colon_data/de_results/de_spatial"
                               ,".targset__", targset, ".rds")
         )
 
