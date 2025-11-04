@@ -9,6 +9,9 @@ This repository contains code used for the analysis and figure generation for ou
 
 The smiDE R package used for analysis throughout the manuscript is hosted [here](https://github.com/Nanostring-Biostats/CosMx-Analysis-Scratch-Space/tree/Main/_code/smiDE).
 
+Larger data files used to reproduce analysis and figures can be found here: 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17519131.svg)](https://doi.org/10.5281/zenodo.17519131)
+
 
 
 ### Analyses Descriptions
