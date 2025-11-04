@@ -1,7 +1,7 @@
 # Differential Expression Analysis for Spatially Correlated Data
 
 
-[![DOI](https://zenodo.org/badge/1058146315.svg)](https://doi.org/10.5281/zenodo.17179172)
+[![DOI](https://zenodo.org/badge/1058146315.svg)](https://doi.org/10.5281/zenodo.17179173)
 
 
 
